@@ -1,4 +1,4 @@
-netatalk (3.1.9-1) UNRELEASED; urgency=low
+netatalk (3.1.9-2) experimental; urgency=low
 
   [ Daniel Lange ]
   * Imported upstream version 3.1.9
@@ -17,6 +17,9 @@ netatalk (3.1.9-1) UNRELEASED; urgency=low
 
   [ Ilya Rusalowski ]
   * Add logrotate
+
+  [ William Hughes ]
+  * Switch to using sysv-style init scripts
 
  -- Daniel Lange <DLange@git.local>  Sun, 07 Aug 2016 13:24:10 +0200
 
